@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 </h2>
 
 <a href="https://github.com/ikumarmanoj">
-  <img align="right" src="https://komarev.com/ghpvc/?username=DevinOfficial&color=5865F2" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=imanojkumar&color=5865F2" />
 </a> 
     Welcome to my github page!
 <br>
@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
     <!-- and btw, I enjoy <strong> <a href="https://discord.com">Discord</a></strong> -->
 <br>
     <a href="https://discord.com/users/561170896480501790">
+    <a href="https://discord.com/channels/968531818414485564/968531819043647510">
         <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#3583:discord-profile"/>
     </a>
 </div>

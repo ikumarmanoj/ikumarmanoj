@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
     I am from India. My focus in on Data Science, Machine Learning, AI and Digital Transformation. 🚀
     <!-- and btw, I enjoy <strong> <a href="https://discord.com">Discord</a></strong> -->
 <br><br>
-    
+
+<div>
     <a href="https://discord.com/channels/968531818414485564/968531819043647510">
         <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#3583:discord-profile"/>
     </a>

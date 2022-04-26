@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
     Hello there! I am <strong>Manoj</strong> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> --><a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
 </h2>
 
-<a href="https://github.com/DevinOfficial">
+<a href="https://github.com/ikumarmanoj">
   <img align="right" src="https://komarev.com/ghpvc/?username=DevinOfficial&color=5865F2" />
 </a> 
     Welcome to my github page!

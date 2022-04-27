@@ -1,3 +1,7 @@
+## Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte
+
+### A very simple portfolio page made with HTML, CSS & JS.
+
 - 👋 Hi, I’m Manoj Kumar { @ikumarmanoj }
 - 👀 I’m interested in Data Science, Business Analytics and Digital Transformation
 - 🌱 I’m currently learning Data Mesh and Data Product for Natural Resources Businesses

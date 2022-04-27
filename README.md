@@ -1,12 +1,12 @@
 ## Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte
 
-### A very simple portfolio page made with HTML, CSS & JS.
+### Welcome to my GitHub.
 
 - 👋 Hi, I’m Manoj Kumar { @ikumarmanoj }
 - 👀 I’m interested in Data Science, Business Analytics and Digital Transformation
 - 🌱 I’m currently learning Data Mesh and Data Product for Natural Resources Businesses
 - 💞️ I’m looking to collaborate on #BERT #NLP #MachineLearning #DeepLearning
-- 📫 How to reach me - Just Following me on Twitter { @ }
+- 📫 How to reach me - Just Following me on Twitter { @iAnalyticsGeek }
 
 <!---
 ikumarmanoj/ikumarmanoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
